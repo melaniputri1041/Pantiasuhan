@@ -1,0 +1,236 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label6.Text" xml:space="preserve">
+    <value>1.      Surat Permohonan Mengasuh  / Mengangkat Anak
+
+a.       Terdiri dari 2 halaman dan disusun sesuai dengan urutan
+
+2.      Surat Keterangan Sehat Jasmani COTA  dari Rumah Sakit Pemerintah
+
+a.       Suami 1 lembar
+
+b.      Isteri 1 lembar
+
+3.      Surat Keterangan Sehat Mental / Jiwa COTA dari Rumah Sakit Pemerintah                               
+        a. Suami 1 lembar
+
+        b.       Isteri  1 lembar
+
+4.      Surat Keterangan Fungsi Organ Reproduksi COTA dari Dokter Spesialis Obstertri 
+         dan Ginekologi dari Rumah Sakit Pemerintah 1 lembar
+
+5.      Fotokopi  Akte Kelahiran COTA
+
+a.       Suami 1 lembar
+
+b.      Isteri 1 lembar
+
+6.      Keterangan Catatan Kepolisian ( SKCK )
+
+a.       Suami 1 lembar
+
+b.      Isteri 1 lembar
+
+7.      Fotokopi Surat Nikah/ Akta Perkawinan 1 lembar
+
+8.      Fotokopi Kartu Keluarga 1 lembar
+
+9.      Fotkopi KTP COTA
+
+a.       Suami 1 lembar
+
+b.      Isteri 1 lembar
+
+10.  Keterangan penghasilan dari tempat bekerja/Kepala Desa bagi  Wiraswasta 1 lembar
+
+11.  Surat Pernyataan persetujuan CAA di atas kertas bermeterai cukup, 
+       bagi anakyang telah mampu menyampaikan pendapatnya dan /Hasil
+       Laporan  Pekerja Sosial 1lembar
+
+12.  Surat Pernyataan Motivasi COTA di kertas bermeterai cukup yang menyatakan
+       bahwa pengangkatan anak demi kepentingan terbaik bagi anak dan 
+       perlindungan anak 1 lembar
+
+13.  Surat Pernyataan COTA akan  memperlakukan anak angkat dan anak kandung tanpa 
+       diskriminasi sesuai dengan hak-hak dan kebutuhan anak di atas kertas 
+       bermeterai cukup 1 lembar.
+
+14.  Surat Pernyataan bahwa COTA akan memberitahukan kepada anak angkatnya 
+       mengenai asal usulnya dan orang tua kandungnya dengan 
+       memperhatikan kesiapan anak 1 lembar
+
+15.  Surat Pernyataan COTA bahwa COTA tidak berhak menjadi wali nikah bagi anak
+       angkat perempuan dan memberi kuasa kepada Wali Hakim 1 lembar
+
+16.  Surat Pernyataan COTA bahwa COTA untuk memberikan hibah sebagian
+        hartanya bagi anak angkatnya 1 lembar
+
+17.  Surat Pernyataan COTA bahwa COTA akan memberikan asuransi kesehatan
+       dan pendidikan bagi anak angkatnya.
+
+18.  Surat Pernyataan Persetujuan adopsi dari orang tua kandung COTA pihak suami
+
+a.       Fotokopi KTP Ayah 1 lembar
+
+b.      Fotokopi KTP Ibu 1 lembar
+
+19.  Surat Pernyataan Persetujuan adopsi dari saudara kadung COTA pihak suami
+
+a.       Fotokopi KTP masing-masing yang bertanda tangan 1 lembar
+
+20.  Surat Pernyataan Persetujuan adopsi dari orang tua kandung COTA pihak isteri
+
+c.       Fotokopi KTP Ayah 1 lembar
+
+d.      Fotokopi KTP Ibu 1 lembar
+
+21.  Surat Pernyataan Persetujuan adopsi dari saudara kadung COTA pihak isteri
+
+a.       Fotokopi KTP masing-masing yang bertanda tangan 1 lembar
+
+22.  Surat Berita Acara / Penyerahan dan Kuasa dari pihak orang tua / Ibu 
+       kandung kepada COTA
+
+23.  Laporan COTA yang dibuat oleh Pekerja Sosial Instansi Sosial setempat.
+
+24.  Fotokopi Kartu Keluarga / KTP orang tua kandung Calon Anak Angkat 1 lembar
+
+25.  Foto COTA dan CAA masing-masing 1 lembar
+
+26.  Rekomendasi proses pengangkatan anak dari Instansi Sosial Propinsi ke Pengadilan
+</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>1.      Permohonan ijin pengangkatan anak kepada instansi sosial setempat (lampiran 1)
+
+2.      Surat keterangan sehat jasmani COTA dari Rumah Sakit Pemerintah ( suami istri 1 lembar )
+
+3.      Surat keterangan kesehatan jiwa COTA dari dokter 
+          spesialis jiwa dari Rumah Sakit Pemerintah ( suami istri 1 lembar )
+
+4.      Surat keterangan tentang fungsi organ reproduksi COTA dari dokter spesialis obstertri dan
+         ginekologi  Rumah Sakit Pemerintah ( isteri 1 lembar )
+
+5.      Copy akta kelahiran COTA ( suami isteri 1 lembar )
+
+6.      Surat Keterangan Catatan Kepolisian ( SKCK ) setempat ( suami isteri 1 lembar )
+
+7.      Copi Surat nikah / akta perkawinan Cota
+
+8.      Copi Kartu Kelurga ( 1 lembar ) dan KTP COTA ( suami isteri 1 lembar )
+
+9.      Copi akte kelahiran CAA ( suami isteri 1 lembar )
+
+10.  Keterangan penghasilan dari tempat bekerja COTA
+
+11.  Surat Pernyataan Calon Orang Tua Angkat ( Calon Adoptan ). (lampiran 2)
+
+12.  Surat pernyataan persetujuan CAA di atas kertas bermeterai cukup bagi anak
+        yang telah mampu menyampaikan pendapatnya dan / hasil laporan pekerja Sosial
+
+13.  Surat pernyataan motivasi COTA di kertas bermeterai  cukup  yang menyatakan  
+       bahwa pengangkatan anak demi kepentingan terbaik bagi anak dan perlindungan anak
+
+(lampiran 11)
+
+14.  Surat pernyataan COTA akan memperlakukan anak angkat dan anak kandung 
+       tanpa diskriminasi sesuai dengan hak-hak dan kebutuhan anak di atas
+       kertas bermeterai cukup
+
+15.  Surat pernyataan bahwa COTA akan memberitahukan kepada anak angkatnya
+       mengenai asal usulnya dan orang tua kandungnya dengan memperhatikan kesiapan anak
+
+(lampiran 7)
+
+16.  Surat pernyataan COTA bahwa COTA tidak berhak menjadi wali nikah 
+      bagi anak angkat perempuan dan memberi kuasa kepada wali hakim (lampiran 9)
+
+17.  Surat pernyataan COTA bahwa COTA untuk memberikan hibah  sebagian  hartanya 
+        bagi anak angkatnya (lampiran 10)
+
+18.  Surat pernyataan COTA bahwa COTA akan  memberikan asuransi  kesehatan dan
+       pendidikan bagi anak angkatnya (lampiran 12)
+
+19.  Surat pernyataan persetujuan adopsi dari orang tua kandung COTA pihak
+        suami disertai fotocopi KTP. (lampiran 3)
+
+20.  Surat pernyataan persetujuan adopsi dari saudara-saudara kandung COTA 
+        pihak istri disertai fotocopi KTP. (lampiran 4)
+
+21.  Surat pernyataan persetujuan adopsi dari orang tua kandung COTA pihak 
+       istri disertai fotocopi KTP. (lampiaran 5)
+
+22.  Surat pernyataan persetujuan adopsi dari saudara-saudara kandung
+        COTA pihak istri disertai fotocopi KTP. (lampira 6)
+
+23.  Surat berita acara / penyerahan dan kuasa dari pihak orang tua / ibu
+        kandung kepada COTA. (lampiran 13)
+
+24.  Laporan COTA yang dibuat oleh Pekerja Sosial Instansi Sosial setempat
+
+25.  Copi Kartu Keluarga / KTP orang tua kandung CAA
+
+26.  Foto COTA dan CAA ukuran 4x6
+
+27.  Rekomendasi proses pengangkatan anak dari Instansi Sosial Propinsi ke Pengadilan.
+
+28.  Surat Pernyataan Akan Memberikan Hak dan Status Yang Sama (lampiran 9)</value>
+  </data>
+</root>
